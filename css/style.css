@@ -1,3 +1,19 @@
+-----------------HTML--------------------
 h1{
     color: aqua;
+    
+  }
+  img {
+    display: inline;
+    margin: 0 auto;
+    height: 100%;
+    width: auto;
+  } 
+-----------------Id----------------------
+#profile{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
 }
